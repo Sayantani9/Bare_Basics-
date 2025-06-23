@@ -277,5 +277,3 @@ ms.erase(ms.find(1). ms.find(1)+2);//erasing from start to end.
 
 //rest all functions are the same as set.
 }
-
-//47th min start
