@@ -1,0 +1,16 @@
+//PROGRAM 2
+//PRINTING YOUR NAME N TIMES USING RECURSSION!
+//PRINTING FROM 1 TO N USING RECURSION
+//PRINTING LINEARLY FROM 1 TO N
+//PRINTING LINEARLY FROM 1 TO N BY BACKTRACK
+//PRINTING FROM N TO 1 BY BACKTRACK.
+
+#include<bits/stdc++.h>
+using namespace std;
+
+void f(i,n)
+{
+    if(i>n)
+    return ;
+    print("HELLO!!");
+}
